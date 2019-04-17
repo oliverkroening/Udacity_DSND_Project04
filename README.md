@@ -44,7 +44,7 @@ To avoid errors while running the code, you have to create two folders. The firs
 * [Blog Post on Medium: Requirements and Benefits of Data Scientists worldwide: European Data Scientists — overqualified and underpaid?](https://medium.com/@oliver.kroening/requirements-and-benefits-of-data-scientists-worldwide-european-data-scientists-overqualified-88a6abb3418f)
 
 ## 5. Licensing, Authors, Acknowledgements<a name="licensing"></a>
-All data was obtained from [Stack Overflow]((https://insights.stackoverflow.com/survey)), thus, I must give credit to them. Other referebces are cited in the Jupyter notebook.
+All data was obtained from [Stack Overflow]((https://insights.stackoverflow.com/survey)), thus, I must give credit to them. Other referebnes are cited in the Jupyter notebook.
 
 
 
